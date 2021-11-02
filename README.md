@@ -1,6 +1,7 @@
 # restaurant  
 Our group is "The Boys"  
-We are Peter Nelson Subrata and Philipus Adriel Tandra
+We are Peter Nelson Subrata and Philipus Adriel Tandra  
+
 Jvv.html = main page  
 Aboutus.html = About us page  
 menu.html = menu page  
