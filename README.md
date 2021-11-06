@@ -5,7 +5,7 @@ Live link :
 Class Name: L1CC  
 Course: Human Computer Interaction (COMP68000)  
 Team: 'The Boys'  
-Member: 
+Member:  
 Peter Nelson Subrata - 2502023562  
         Philipus Adriel Tandra -  
   
