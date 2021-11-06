@@ -1,7 +1,23 @@
-# The Boys
-Our group is "The Boys"  
-We are Peter Nelson Subrata and Philipus Adriel Tandra  
+# FriendBot
+FriendBot  
+Live link : 
+  
+Class Name: L1CC  
+Course: Human Computer Interaction (COMP68000)  
+Team: 'The Boys'  
+Member: Peter Nelson Subrata - 2502023562  
+        Philipus Adriel Tandra -  
+  
+Description of the App:  
+  
+    
+      
+Features:  
 
+
+
+
+Other Info:  
 Jvv.html = main page  
 Aboutus.html = About us page  
 menu.html = menu page  
