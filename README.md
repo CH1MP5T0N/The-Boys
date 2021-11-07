@@ -7,7 +7,7 @@ Course: Human Computer Interaction (COMP68000)
 Team: 'The Boys'  
 Member:  
 Peter Nelson Subrata - 2502023562  
-        Philipus Adriel Tandra -  
+        Philipus Adriel Tandra - 2502031715
   
 Description of the App:  
   
